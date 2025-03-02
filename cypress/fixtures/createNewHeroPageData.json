@@ -1,0 +1,8 @@
+{
+    "name": "Lucas",
+    "price": "2000",
+    "fans": "10",
+    "saves": "5",
+    "powers": ["Fireball"],
+    "avatarPath": "img/hero6.png"   
+}

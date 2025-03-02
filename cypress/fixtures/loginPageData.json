@@ -1,0 +1,16 @@
+{
+    "userSuccess": {
+        "email": "admin@test.com",
+        "password": "test123"
+    },
+    "userFailButValid": {
+        "email": "123admin@test.com",
+        "password": "test"
+    },
+    "userFailInvalid": {
+        "email": "testtest",
+        "password": "test"
+    }
+    
+    
+}

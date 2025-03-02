@@ -1,0 +1,11 @@
+{
+    
+    "editedHero": {
+      "name": "Thunderstorm",
+      "price": "2500",
+      "fans": "150",
+      "saves": "25",
+      "powers": "Lightning Control",
+      "avatarPath": "thunderstorm-avatar.jpg"
+    }
+  }
