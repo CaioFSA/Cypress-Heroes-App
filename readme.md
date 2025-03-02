@@ -56,3 +56,9 @@ npm run resetdb
 The client app uses an environment variable to know what the URL is for the
 backend api named `VITE_API_URL`. It defaults to "http://localhost:3001" for use
 in dev mode, and should be overriden in other environments/modes.
+
+# OBSERVAÇÕES
+
+Não possuo qualquer direito sobre o aplicativo. Somente utilizei para fazer testes acadêmicos e utilizar como portfólio.
+Meus testes podem ser encontrados na pasta cypress. 
+Link da planilha de testes [Planilha](https://docs.google.com/spreadsheets/d/1nZem8F1gXlmpEc8icn8D1HXbCOdKUtMmcWWf42vTxPE/edit?usp=sharing)
